@@ -2,7 +2,7 @@
 
 ## install pacakges used
 
-``pip install -r requirements. txt`
+`pip install -r requirements. txt`
 
 ## start server
 
@@ -13,4 +13,4 @@ or affter setting the ` FLASK_APP`
 
 ## you can run test using the nose package install
 
-``nose2 api.tests`
+`nose2 api.tests`
